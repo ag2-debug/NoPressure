@@ -41,6 +41,7 @@ sysinfo.txt
 /ProjectSettings
 /Temp
 /UnityPackageManager
+/.vs
 NoPressure.csproj
 NoPressure.sln
 NoPressure.sln.DotSettings.user
