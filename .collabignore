@@ -31,3 +31,13 @@ ehthumbs.db
 [Bb]uild
 sysinfo.txt
 *.stackdump
+
+# Thomas removed
+# ==============
+/Assets
+/Debug
+/Library
+/NoPressure_Data
+/ProjectSettings
+/Temp
+/UnityPackageManager
